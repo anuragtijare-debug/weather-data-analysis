@@ -70,4 +70,4 @@ jupyter notebook notebooks/Weather_Data_Analysis.ipynb
 ```
 
 ## Author
-**Your Name**: add your GitHub / LinkedIn link here.
+**Anurag Tijare**: 
